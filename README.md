@@ -9,6 +9,10 @@ In addition to the project I added some javascript to allow the mobile menu to o
 
 ![](Assets/waitlist.png)
 
-
+### Built With
+- HTML
+- CSS
+- Javascript
+- Flexbox
 
 
