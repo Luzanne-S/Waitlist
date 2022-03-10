@@ -228,6 +228,13 @@ input,.content-btn{
     margin-top: -7%;
     margin-right: 34px;
   }
+
+  .mobile-menu li{
+      padding-bottom: 15px;
+  }
+  .nav-btn{
+      margin-top: 5px;
+  }
   .content{
       width:100%;
       text-align: center;
