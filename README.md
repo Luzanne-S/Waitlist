@@ -9,6 +9,9 @@ In addition to the project I added some javascript to allow the mobile menu to o
 
 ![](Assets/waitlist.png)
 
+### Link
+- Live Site URL: [https://luzanne-s.github.io/Waitlist/]
+
 ### Built With
 - HTML
 - CSS
